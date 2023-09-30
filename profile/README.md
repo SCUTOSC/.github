@@ -1,5 +1,5 @@
 ## SCUTOSC 👋
-South China University of Technology Open Source Community.
+Open source community of South China University of Technology.
 
 ## 如何学习？
 
